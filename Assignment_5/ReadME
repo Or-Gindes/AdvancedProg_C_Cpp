@@ -1,0 +1,11 @@
+Assignment5 
+Author: Or Gindes
+Date: 18/01/23
+
+In this program I used polymorphism to add a politician to the correct party.
+Both Politician and Party can be either Democratic or Republican
+By accessing a party's AddPolitician method the program knows what kind of party this is
+and by accessing the relevant canJoinX method of the politican we know which kind of politician is trying to join, similar to the Barrel question from the final test in 2019
+Similarly Leader/Social Politician each implement differently election and primaries power pure virtual functions taken from Politician.
+Each politican type is implemented in a diamond pattern, i.e. democrate/republican and leader/social both inherit the generic politican and each combination of those two inherits him his relevant parents (i.e. DemocraticSocialPolitician)
+The party maintains and observer-subject relation with its politcians, updating them on changes in the chairman

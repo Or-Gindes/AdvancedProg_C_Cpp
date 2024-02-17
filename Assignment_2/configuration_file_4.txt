@@ -1,0 +1,9 @@
+Planets
+Earth,123.1,8392,99.2
+Earth,983.223,8521,2312
+Pluto,3454.21,124.112,985.445
+Jerries
+1q456,C-137,Earth,50
+23fD21,C-455,Earth,10
+S5d2,V-234,Gaia,99
+6e45,B-344,Pluto,34

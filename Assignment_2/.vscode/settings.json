@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "typeinfo": "c",
+        "concepts": "c",
+        "type_traits": "c",
+        "new": "c",
+        "stdio.h": "c",
+        "defs.h": "c",
+        "compare": "c"
+    }
+}
